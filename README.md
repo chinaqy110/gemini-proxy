@@ -20,6 +20,7 @@
 2.  创建组织（Organization），并新应用（New App） 。  
 3.  选择关联部署（GitHub integration），选中仓库
 4.  配置环境变量：Settings里，找到环境变量（Environment variables）配置项 。
+   
 | 变量名 | 说明                      | 示例                 |
 | :----- | :------------------------ | :------------------- |
 | `key`  | 客户端认证密钥，自定义设置 | `sk-my-secret-key-123` |
