@@ -18,15 +18,6 @@
 
 1.  使用您的 GitHub 账号登录 https://console.deno.com/
 2.  创建组织（Organization），并新应用（New App） 。  
-
-
-
-
-重新配置环境变量（极其重要）：
-配置环境变量：Settings里，找到环境变量（Environment variables）配置项 。
-添加
-key: 你的 AUTH_KEY
-apikey: 你的免费 Gemini API Key 列表 。
 3.  选择关联部署（GitHub integration），选中仓库
 4.  配置环境变量：Settings里，找到环境变量（Environment variables）配置项 。
 | 变量名 | 说明                      | 示例                 |
